@@ -1,0 +1,21 @@
+#
+#Fri Mar 03 18:24:53 CET 2017
+owner=gvSIG Association
+code=simplelogin
+java-version=j1_7
+official=false
+type=Script
+version=1.0.0-1
+state=testing
+operating-system=all
+dependencies=
+sources-url=
+web-url=
+architecture=all
+model-version=1.0.1
+categories=
+description=Script de ejemplo de como usar el sistema de autenticacion de usuarios de gvSIG
+owner-url=
+buildNumber=1
+gvSIG-version=2.3.1
+name=Scripts\: Simple login example
