@@ -7,7 +7,7 @@ from org.gvsig.tools import ToolsLocator
 from java.lang import System
 import sys
 
-from addons.CoordinateCapture.patchs.fixformpanel import fixFormPanelResourceLoader
+from addons.SimpleLogin.patchs.fixformpanel import fixFormPanelResourceLoader
 
 class LoginDialog(FormPanel):
   def __init__(self):

@@ -18,6 +18,7 @@ class FormPanelResourceLoader(AppResourceLoader):
 
   def loadImage(self, imageName):
     url = AppResourceLoader.loadImage(self, imageName)
+    #print "loadImage(%s,%s)" % (imageName,url)
     return url
     
 def fixFormPanelResourceLoader():

@@ -24,8 +24,8 @@
     </at>
     <at name="componentclass">com.jeta.forms.gui.form.FormComponent</at>
    </super>
-   <at name="id">/home/jjdelcerro/gvSIG/plugins/org.gvsig.scripting.app.mainplugin/scripts/addons/simplelogin/logindialog.xml</at>
-   <at name="path">addons/simplelogin/logindialog.xml</at>
+   <at name="id">/home/jjdelcerro/gvSIG/plugins/org.gvsig.scripting.app.mainplugin/scripts/addons/SimpleLogin/logindialog.xml</at>
+   <at name="path">addons/SimpleLogin/logindialog.xml</at>
    <at name="rowspecs">CENTER:DEFAULT:NONE,FILL:DEFAULT:GROW(1.0),CENTER:DEFAULT:NONE,CENTER:DEFAULT:NONE,CENTER:DEFAULT:NONE,CENTER:DEFAULT:NONE,CENTER:DEFAULT:NONE,FILL:DEFAULT:GROW(1.0)</at>
    <at name="colspecs">FILL:DEFAULT:GROW(1.0),FILL:DEFAULT:NONE,FILL:DEFAULT:NONE,FILL:DEFAULT:GROW(1.0),FILL:DEFAULT:NONE</at>
    <at name="components">
@@ -557,7 +557,7 @@
           <object classname="com.jeta.forms.store.properties.ImageProperty">
            <super classname="com.jeta.forms.store.properties.IconProperty">
             <at name="embedded">false</at>
-            <at name="path">addons/simplelogin/images/loginBackground.png</at>
+            <at name="path">addons/SimpleLogin/images/loginBackground.png</at>
             <at name="description">loginBackground.png</at>
             <at name="width">640</at>
             <at name="height">400</at>
